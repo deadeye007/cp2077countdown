@@ -1,6 +1,6 @@
 function main() {
 	var datetime = new Date();
-	var date = new Date("11/19/2020");
+	var date = new Date("01/01/2023");
 
 
 	var diffTime = date.getTime() - datetime.getTime();
